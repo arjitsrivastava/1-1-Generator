@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "text": "What challenges are you currently facing in your projects?",
+    "category": "ABC" ,
+    "subcategory": "General"    
+  },
+  {
+    "id": 2,
+    "text": "Is there anything you need from me to make your job easier?",
+    "category": "ABC",
+    "subcategory": "General"    
+  },
+  {
+    "id": 3,
+    "text": "What are your career goals and how can I help you achieve them?",
+    "category": "ABC"
+  },
+  {
+    "id": 4,
+    "text": "How do you prefer to receive feedback?",
+    "category": "123",
+    "subcategory": "Weekly Planning"
+  },
+  {
+    "id": 5,
+    "text": "How do you feel about your work-life balance?",
+    "category": "123"
+  },
+  {
+    "id": 6,
+    "text": "Is there anything you'd like to learn or any area you'd like to develop skills in?",
+    "category": "123"
+  },
+  {
+    "id": 7,
+    "text": "How do you feel about the communication within the team?",
+    "category": "123",
+    "subcategory": "Weekly Planning"
+  },
+  {
+    "id": 8,
+    "text": "Is there anything you think we should change about our team processes?",
+    "category": "ooooo",
+    "source": "https://leaderlab.lifelabslearning.com/hubfs/Leader%20Lab%20Book%20Site/Coaching%20Questions%20List.pdf?hsLang=en"
+  },
+  {
+    "id": 9,
+    "text": "Are there any resources or tools that you think would help you do your job better?",
+    "category": "ooooo",
+    "subcategory": "Nothing"
+  },
+  {
+    "id": 10,
+    "text": "Is there anything else you'd like to discuss that we haven't covered?",
+    "category": "ooooo"
+  }
+]
