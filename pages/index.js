@@ -5,7 +5,7 @@ import DiceIcon from '../components/DiceIcon';
 import { useState, useEffect, useMemo } from 'react';
 import { useMedia } from 'react-use';
 import questions from '../public/questions.json';
-import Link from 'next/link'; 
+import Link from 'next/link';
 
 // Moved to a separate function for testability and separation of concerns
 function getRandomQuestion(category, subcategory) {
@@ -72,6 +72,8 @@ export default function Home() {
     </a>
   </Link>
 </nav>
+
+
 
       <div className="flex-grow flex flex-col justify-center">
         <main>

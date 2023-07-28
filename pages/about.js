@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Link from 'next/link'
 
 export default function About() {
   return (
@@ -47,6 +48,9 @@ export default function About() {
         </a>
       </div>
 
+      <Link href="/">
+        <a className="text-lightCyan underline mt-8">Back to Home</a>
+      </Link>
 
     </div>
   );
