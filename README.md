@@ -2,7 +2,7 @@
 
 This tool is designed for Engineering Leaders to improve the effectiveness of their 1:1 meetings. It provides a selection of questions that can be used to guide conversations. The goal is to facilitate more meaningful and productive conversations.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/arjitsrivastava/1-1-Generator/blob/main/Screenshot%202023-07-28%20at%2011.05.10%20PM.png)
 
 ## Features
 
