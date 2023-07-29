@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link'
+import Image from 'next/image';
 
 export default function About() {
   return (
@@ -9,7 +10,7 @@ export default function About() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1 className="text-lightCyan text-lg text-center font-extrabold mb-4">Wie geht's?</h1>
+      <h1 className="text-lightCyan text-lg text-center font-extrabold mb-4">Wie geht&apos;s?</h1>
 
       <div className="mb-8 text-center">
         <h2 className="font-bold text-neonGreen">About</h2>
@@ -24,7 +25,7 @@ export default function About() {
       <div className="mb-8 text-center">
         <h2 className="font-bold text-neonGreen">Who Am I?</h2>
         <p>
-          Hey there, I'm <span className="text-neonGreen font-bold">Arjit</span>. I am constantly looking for ways to improve. </p>
+          Hey there, I am <span className="text-neonGreen font-bold">Arjit</span>. I am constantly looking for ways to improve. </p>
           <p> I created this to help other leaders have effective conversations with their team members. </p>
           <p> I hope it brings value to your 1:1s!
         </p>
@@ -41,10 +42,10 @@ export default function About() {
 
         <div className="flex justify-center mt-8 space-x-4">
         <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
-          <img src="/github-icon.svg" alt="Github" width="24" height="24" />
+          <Image src="/github-icon.svg" alt="Github" width="24" height="24" />
         </a>
         <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
-          <img src="/linkedin-icon.svg" alt="LinkedIn" width="24" height="24" />
+          <Image src="/linkedin-icon.svg" alt="LinkedIn" width="24" height="24" />
         </a>
       </div>
 
