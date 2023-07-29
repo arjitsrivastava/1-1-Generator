@@ -32,6 +32,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 Give a ⭐️ if this project helped you! Your stars help others discover this tool and contribute to its growth. If you feel generous, you can also support the ongoing development of this project on [Kofi](https://ko-fi.com/arjit).
 
+<a href='https://ko-fi.com/arjit' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+
 ## Credit to Original Design
 This project was inspired by [Advice-Generator](https://github.com/RubenF01/Advice-Generator/). We want to acknowledge their innovation and efforts, and extend our gratitude for laying the groundwork for this tool.
 
