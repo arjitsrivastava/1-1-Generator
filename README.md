@@ -34,6 +34,11 @@ Give a ⭐️ if this project helped you! Your stars help others discover this t
 
 <a href='https://ko-fi.com/arjit' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
+## Credits
+
+A significant portion of the questions provided in this tool are sourced from the [1on1-questions](https://github.com/VGraupera/1on1-questions) repository by [VGraupera](https://github.com/VGraupera). A big thanks to them for their fantastic compilation and their dedication to fostering meaningful conversations within the tech community.
+
+
 ## Credit to Original Design
 This project was inspired by [Advice-Generator](https://github.com/RubenF01/Advice-Generator/). We want to acknowledge their innovation and efforts, and extend our gratitude for laying the groundwork for this tool.
 
