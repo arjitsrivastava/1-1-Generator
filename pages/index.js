@@ -127,7 +127,7 @@ export default function Home() {
       </div>
 
       <footer className='text-center text-white bg-darkGrayishBlue p-4 fixed bottom-0 w-full'>
-        Made by XYZ
+        Made with ❤️ by <a href="https://github.com/arjitsrivastava" target="_blank" rel="noreferrer"> Arjit</a>
       </footer>
     </div>
   );

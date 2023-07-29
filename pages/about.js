@@ -41,10 +41,10 @@ export default function About() {
       <br />
 
         <div className="flex justify-center mt-8 space-x-4">
-        <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
+        <a href="https://github.com/arjitsrivastava" target="_blank" rel="noreferrer">
           <Image src="/github-icon.svg" alt="Github" width="24" height="24" />
         </a>
-        <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
+        <a href="https://linkedin.com/in/arjitsrivastava" target="_blank" rel="noreferrer">
           <Image src="/linkedin-icon.svg" alt="LinkedIn" width="24" height="24" />
         </a>
       </div>
