@@ -30,8 +30,10 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you! Your stars help others discover this tool and contribute to its growth. If you feel generous, you can also support the ongoing development of this project on [Kofi](https://ko-fi.com/arjit).
+
+## Credit to Original Design
+This project was inspired by [Advice-Generator](https://github.com/RubenF01/Advice-Generator/). We want to acknowledge their innovation and efforts, and extend our gratitude for laying the groundwork for this tool.
 
 ## License
-
 [MIT](LICENSE)
