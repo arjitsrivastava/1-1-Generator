@@ -6,7 +6,6 @@ import { useState, useEffect, useMemo } from 'react';
 import { useMedia } from 'react-use';
 import questions from '../public/questions.json';
 import Link from 'next/link';
-import { Box } from "@chakra-ui/react";
 
 // Moved to a separate function for testability and separation of concerns
 function getRandomQuestion(category, subcategory) {
