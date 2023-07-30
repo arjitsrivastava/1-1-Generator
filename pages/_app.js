@@ -1,9 +1,13 @@
-import '../styles/globals.css'
+import '../styles/globals.css';
 import { Analytics } from '@vercel/analytics/react';
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
-  <Analytics />
+  return (
+    <>
+      <Component {...pageProps} />
+      <Analytics />
+    </>
+  );
 }
 
-export default MyApp
+export default MyApp;
