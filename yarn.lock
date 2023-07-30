@@ -143,6 +143,11 @@
     "@typescript-eslint/types" "5.10.1"
     "eslint-visitor-keys" "^3.0.0"
 
+"@vercel/analytics@^1.0.1":
+  "integrity" "sha512-Ux0c9qUfkcPqng3vrR0GTrlQdqNJ2JREn/2ydrVuKwM3RtMfF2mWX31Ijqo1opSjNAq6rK76PwtANw6kl6TAow=="
+  "resolved" "https://registry.npmjs.org/@vercel/analytics/-/analytics-1.0.1.tgz"
+  "version" "1.0.1"
+
 "@xobotyi/scrollbar-width@^1.9.5":
   "integrity" "sha512-N8tkAACJx2ww8vFMneJmaAgmjAG1tnVBZJRLRcx061tmsLRZHSEZSLuGWnwPtunsSLvSqXQ2wfp7Mgqg1I+2dQ=="
   "resolved" "https://registry.npmjs.org/@xobotyi/scrollbar-width/-/scrollbar-width-1.9.5.tgz"
