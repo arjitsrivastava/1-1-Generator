@@ -8,1575 +8,1610 @@
   },
   {
     "id": 2,
-    "text": "What do you think has gone well? What do you think you could have done better? What, if anything, would you like to do, but haven't been able to?",
+    "text": "What do you think has gone well? What do you think you could have done better?",
     "category": "Work Progress",
     "subcategory": "Current Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 3,
-    "text": "What are your biggest concerns about your current project(s)?",
+    "text": "What, if anything, would you like to do, but haven't been able to?",
     "category": "Work Progress",
     "subcategory": "Current Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 4,
-    "text": "What interests you about the project(s) you\u2019re currently working on, and why?",
+    "text": "What are your biggest concerns about your current project(s)?",
     "category": "Work Progress",
     "subcategory": "Current Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 5,
-    "text": "How are you going to approach this?",
+    "text": "What interests you about the project(s) you\u2019re currently working on, and why?",
     "category": "Work Progress",
     "subcategory": "Current Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 6,
-    "text": "What are the most important things you will focus on before we meet next?",
+    "text": "How are you going to approach this?",
     "category": "Work Progress",
     "subcategory": "Current Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 7,
-    "text": "What obstacles are you encountering right now?",
+    "text": "What are the most important things you will focus on before we meet next?",
     "category": "Work Progress",
     "subcategory": "Current Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 8,
-    "text": "What part of the day do you have the most energy and focus? When do you have the least? What changes could we make to your work schedule to accommodate this?",
+    "text": "What obstacles are you encountering right now?",
     "category": "Work Progress",
     "subcategory": "Current Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 9,
-    "text": "What questions do you have about this project?",
+    "text": "What part of the day do you have the most energy and focus? When do you have the least? What changes could we make to your work schedule to accommodate this?",
     "category": "Work Progress",
     "subcategory": "Current Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 10,
-    "text": "What stands in your way?",
+    "text": "What questions do you have about this project?",
     "category": "Work Progress",
     "subcategory": "Current Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 11,
+    "text": "What stands in your way?",
+    "category": "Work Progress",
+    "subcategory": "Current Projects",
+    "source": "https://github.com/VGraupera/1on1-questions"
+  },
+  {
+    "id": 12,
     "text": "If you could work on anything for the next month, what would it be? What makes you say that?",
     "category": "Work Progress",
     "subcategory": "Upcoming Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 12,
+    "id": 13,
     "text": "What are the key elements you need to start working on the upcoming project?",
     "category": "Work Progress",
     "subcategory": "Upcoming Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 13,
+    "id": 14,
     "text": "How do you see the upcoming project impacting your workload?",
     "category": "Work Progress",
     "subcategory": "Upcoming Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 14,
+    "id": 15,
     "text": "What resources do you think you'll need for the upcoming project?",
     "category": "Work Progress",
     "subcategory": "Upcoming Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 15,
+    "id": 16,
     "text": "Are there any concerns or obstacles you anticipate with the upcoming project?",
     "category": "Work Progress",
     "subcategory": "Upcoming Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 16,
+    "id": 17,
     "text": "Do you see any opportunities for professional growth in the upcoming project?",
     "category": "Work Progress",
     "subcategory": "Upcoming Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 17,
+    "id": 18,
     "text": "How will the upcoming project contribute to your career goals?",
     "category": "Work Progress",
     "subcategory": "Upcoming Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 18,
+    "id": 19,
     "text": "What skills do you plan to utilize in the upcoming project?",
     "category": "Work Progress",
     "subcategory": "Upcoming Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 19,
+    "id": 20,
     "text": "What new skills do you hope to develop during the upcoming project?",
     "category": "Work Progress",
     "subcategory": "Upcoming Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 20,
+    "id": 21,
     "text": "Do you have any creative ideas for the upcoming project you'd like to share?",
     "category": "Work Progress",
     "subcategory": "Upcoming Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 21,
+    "id": 22,
     "text": "What is the best accomplishment you had since you are here? Do you feel appreciated for it?",
     "category": "Work Progress",
     "subcategory": "Completed Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 22,
+    "id": 23,
     "text": "What are your most significant accomplishments since we last met?",
     "category": "Work Progress",
     "subcategory": "Completed Projects",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 23,
+    "id": 24,
     "text": "Can you share any lessons you learned from the recently completed project?",
     "category": "Work Progress",
     "subcategory": "Completed Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 24,
+    "id": 25,
     "text": "What were the biggest challenges you faced in the recently completed project?",
     "category": "Work Progress",
     "subcategory": "Completed Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 25,
+    "id": 26,
     "text": "Were there any moments of collaboration in the completed project that stood out to you?",
     "category": "Work Progress",
     "subcategory": "Completed Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 26,
+    "id": 27,
     "text": "How would you change the process if you were to do this project again?",
     "category": "Work Progress",
     "subcategory": "Completed Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 27,
+    "id": 28,
     "text": "Was there any feedback you received on the completed project that you found particularly useful?",
     "category": "Work Progress",
     "subcategory": "Completed Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 28,
+    "id": 29,
     "text": "How did the completed project affect your professional development?",
     "category": "Work Progress",
     "subcategory": "Completed Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 29,
+    "id": 30,
     "text": "What aspects of the completed project did you enjoy the most?",
     "category": "Work Progress",
     "subcategory": "Completed Projects",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 30,
+    "id": 31,
     "text": "At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?",
     "category": "Work Progress",
     "subcategory": "Project Management Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 31,
+    "id": 32,
     "text": "What is the biggest challenge you are currently facing? How can I help with that?",
     "category": "Work Progress",
     "subcategory": "Project Management Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 32,
+    "id": 33,
     "text": "What is the percentage of my involvement in your daily tasks? Would you prefer more or less?",
     "category": "Work Progress",
     "subcategory": "Project Management Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 33,
+    "id": 34,
     "text": "What do you think you could be doing differently?",
     "category": "Work Progress",
     "subcategory": "Project Management Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 34,
+    "id": 35,
     "text": "What frustrates you about the project?",
     "category": "Work Progress",
     "subcategory": "Project Management Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 35,
+    "id": 36,
     "text": "What have you tried so far to make progress on it?",
     "category": "Work Progress",
     "subcategory": "Project Management Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 36,
+    "id": 37,
     "text": "Which parts of your project are unclear or confusing?",
     "category": "Work Progress",
     "subcategory": "Project Management Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 37,
+    "id": 38,
     "text": "What are 3 things could we do to improve your productivity if money was no object?",
     "category": "Work Progress",
     "subcategory": "Project Management Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 38,
+    "id": 39,
     "text": "What were your biggest time wasters or roadblocks last week or the week before?",
     "category": "Work Progress",
     "subcategory": "Project Management Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 39,
+    "id": 40,
     "text": "What suggestions do you have?",
     "category": "Work Progress",
     "subcategory": "Project Management Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 40,
+    "id": 41,
     "text": "What areas of your work are you confident about?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 41,
+    "id": 42,
     "text": "Do you feel like you're growing in your role? What makes you say that?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 42,
+    "id": 43,
     "text": "Are there any events or training you\u2019d like to attend to help you grow your skills?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 43,
+    "id": 44,
     "text": "Is there a different way we can develop your skills outside of traditional training?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 44,
+    "id": 45,
     "text": "What additional training or education would you like?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 45,
+    "id": 46,
     "text": "What are two to three new skills you\u2019d like to learn on the job? What about those skills interests you?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 46,
+    "id": 47,
     "text": "What areas of your job do you find difficult that getting better skills at would help?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 47,
+    "id": 48,
     "text": "What kind of training or experience would be most helpful to you right now?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 48,
+    "id": 49,
     "text": "What parts of your job would you like to deepen your skills in or get additional training in?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 49,
+    "id": 50,
     "text": "What skills do you have that you think are underutilized?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 50,
+    "id": 51,
     "text": "What skills would you like to develop right now?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 51,
-    "text": "Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?",
+    "id": 52,
+    "text": "Which part of the work here do you feel as most relevant to your long-term goals?",
     "category": "Personal Development",
     "subcategory": "Skills Development",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 52,
+    "id": 53,
+    "text": "What kinds of projects do you want to take part in to move toward your goals?",
+    "category": "Personal Development",
+    "subcategory": "Skills Development",
+    "source": "https://github.com/VGraupera/1on1-questions"
+  },
+  {
+    "id": 54,
     "text": "What is an ideal, productive day at work for you? Walk me through the day\u2026",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 53,
+    "id": 55,
     "text": "In our last 1-on-1 you mentioned that you\u2019d like to grow in X \u2014 how has that been going?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 54,
+    "id": 56,
     "text": "What do you want to accomplish and by when?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 55,
+    "id": 57,
     "text": "Are there any projects you\u2019d really like to work on if you were given the opportunity?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 56,
+    "id": 58,
     "text": "Could you see yourself making progress on more of your goals here? What would need to change to do so?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 57,
+    "id": 59,
     "text": "Do you feel like you\u2019re making progress on your big goals here? Why or why not?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 58,
+    "id": 60,
     "text": "Do you have the tools you need to reach your goals?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 59,
+    "id": 61,
     "text": "Have you given any more thought to your long-term goals since our last meeting? What are your latest thoughts?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 60,
+    "id": 62,
     "text": "How do you feel you are progressing in your career?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 61,
+    "id": 63,
     "text": "How do you think about your progress on your big goals? What needs to be done to move towards the goals? What can we do to help?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 62,
+    "id": 64,
     "text": "If you were to create your ideal position, how would it differ from what you are currently doing?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 63,
+    "id": 65,
     "text": "Imagine it\u2019s two years from now, and things have gone well: What has been your role in that? What does your role look like?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 64,
+    "id": 66,
     "text": "Tell me about something new you learned since we met last.",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 65,
+    "id": 67,
     "text": "What about this goal is important to you and what will be different when you achieve the goal?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 66,
+    "id": 68,
     "text": "What actions will you take before our next 1-on-1 to make progress on X? (Also discuss and agree on actions you will take to help.)",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 67,
+    "id": 69,
     "text": "What are some of the work projects you\u2019re most proud of, and what do you think you might want to do next?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 68,
+    "id": 70,
     "text": "What are the projects you would be interested in working on next?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 69,
+    "id": 71,
     "text": "What are your big dreams in life? Are you making progress on them?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 70,
+    "id": 72,
     "text": "What are your goals (for our group for you personally)",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 71,
+    "id": 73,
     "text": "What are your long term goals? Have you thought about them?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 72,
+    "id": 74,
     "text": "What are your super powers? What powers would you like to develop?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 73,
+    "id": 75,
     "text": "What capabilities do you want to develop?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 74,
+    "id": 76,
     "text": "What development areas do you want to work on in the coming weeks?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 75,
+    "id": 77,
     "text": "What do you see as the next step in your career?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 76,
+    "id": 78,
     "text": "What do you want to be doing in 5 years? 10 years? 3 years?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 77,
+    "id": 79,
     "text": "What do you want to do in your next job?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 78,
+    "id": 80,
     "text": "What else can I be doing to help you grow/advance in your career?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 79,
+    "id": 81,
     "text": "What goals have you set for your career?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 80,
+    "id": 82,
     "text": "What opportunities have you had recently to learn something new?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 81,
+    "id": 83,
     "text": "What other roles here could you see yourself in down the line? Or what areas would you like to explore?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 82,
+    "id": 84,
     "text": "What professional goals would you like to accomplish in the next 6 to 12 months, and what makes you say that?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 83,
+    "id": 85,
     "text": "What skills are required to reach your goals?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 84,
+    "id": 86,
     "text": "What sort of progress have you made on the next steps we discussed last time?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 85,
+    "id": 87,
     "text": "What work are you doing here that you feel is most in line with your long term goals?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 86,
+    "id": 88,
     "text": "What would make this your perfect job?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 87,
+    "id": 89,
     "text": "What would you like to learn about in the future?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 88,
+    "id": 90,
     "text": "What\u2019s one thing we could do today to help you with your long term goals?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 89,
-    "text": "Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?",
-    "category": "Personal Development",
-    "subcategory": "Career Goals",
-    "source": "https://github.com/VGraupera/1on1-questions"
-  },
-  {
-    "id": 90,
-    "text": "Where do you see your career in the next (2/5/10) years?",
-    "category": "Personal Development",
-    "subcategory": "Career Goals",
-    "source": "https://github.com/VGraupera/1on1-questions"
-  },
-  {
     "id": 91,
-    "text": "Where do you see yourself in three years? Five years?",
+    "text": "Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 92,
-    "text": "Which career or development goals do you feel like you\u2019re not able to focus on right now?",
+    "text": "How can we help you to reach your goals (assuming the goals relate to the company)?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 93,
-    "text": "Who in the company would you like to learn from? What do you want to learn?",
+    "text": "Where do you see your career in the next (2/5/10) years?",
     "category": "Personal Development",
     "subcategory": "Career Goals",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
     "id": 94,
+    "text": "Where do you see yourself in three years? Five years?",
+    "category": "Personal Development",
+    "subcategory": "Career Goals",
+    "source": "https://github.com/VGraupera/1on1-questions"
+  },
+  {
+    "id": 95,
+    "text": "Which career or development goals do you feel like you\u2019re not able to focus on right now?",
+    "category": "Personal Development",
+    "subcategory": "Career Goals",
+    "source": "https://github.com/VGraupera/1on1-questions"
+  },
+  {
+    "id": 96,
+    "text": "Who in the company would you like to learn from? What do you want to learn?",
+    "category": "Personal Development",
+    "subcategory": "Career Goals",
+    "source": "https://github.com/VGraupera/1on1-questions"
+  },
+  {
+    "id": 97,
     "text": "Do you feel you\u2019re getting enough feedback? Why/why not?",
     "category": "Personal Development",
     "subcategory": "Feedback & Recognition",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 95,
+    "id": 98,
     "text": "Do you have any feedback for me?",
     "category": "Personal Development",
     "subcategory": "Feedback & Recognition",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 96,
+    "id": 99,
     "text": "Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?",
     "category": "Personal Development",
     "subcategory": "Feedback & Recognition",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 97,
+    "id": 100,
     "text": "How do you prefer to receive feedback?",
     "category": "Personal Development",
     "subcategory": "Feedback & Recognition",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 98,
+    "id": 101,
     "text": "What are your thoughts on my changes?",
     "category": "Personal Development",
     "subcategory": "Feedback & Recognition",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 99,
+    "id": 102,
     "text": "What do you think I should know about the project, but might not?",
     "category": "Personal Development",
     "subcategory": "Feedback & Recognition",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 100,
+    "id": 103,
     "text": "What would you like to see change about these discussions? How could we make them more useful for you?",
     "category": "Personal Development",
     "subcategory": "Feedback & Recognition",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 101,
+    "id": 104,
     "text": "What feedback/praises have you been getting about your current priorities?",
     "category": "Personal Development",
     "subcategory": "Feedback & Recognition",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 102,
+    "id": 105,
     "text": "Are you happy with your recent work? Why or why not?",
     "category": "Personal Development",
     "subcategory": "Feedback & Recognition",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 103,
+    "id": 106,
     "text": "How can I make your days more fulfilling?",
     "category": "Personal Development",
     "subcategory": "Professional Interests and Passions",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 104,
+    "id": 107,
     "text": "How might I make this project more challenging or interesting for you?",
     "category": "Personal Development",
     "subcategory": "Professional Interests and Passions",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 105,
+    "id": 108,
     "text": "What talents do you have that you feel we are fully utilizing? Which of your talents are we not fully leveraging?",
     "category": "Personal Development",
     "subcategory": "Professional Interests and Passions",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 106,
+    "id": 109,
     "text": "What do you enjoy the most in your current role?",
     "category": "Personal Development",
     "subcategory": "Professional Interests and Passions",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 107,
+    "id": 110,
     "text": "What makes you excited and motivated to work on a project?",
     "category": "Personal Development",
     "subcategory": "Professional Interests and Passions",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 108,
+    "id": 111,
     "text": "How did \"that\" affect you?",
     "category": "Team Dynamics",
     "subcategory": "Interpersonal Relationships",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 109,
+    "id": 112,
     "text": "Is there anything that you need from me?",
     "category": "Team Dynamics",
     "subcategory": "Interpersonal Relationships",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 110,
+    "id": 113,
     "text": "How would you describe the level of communication within the team?",
     "category": "Team Dynamics",
     "subcategory": "Interpersonal Relationships",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 111,
+    "id": 114,
     "text": "Are there any conflicts in the team that you believe are impacting productivity?",
     "category": "Team Dynamics",
     "subcategory": "Interpersonal Relationships",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 112,
+    "id": 115,
     "text": "Do you feel your ideas and contributions are valued within the team?",
     "category": "Team Dynamics",
     "subcategory": "Interpersonal Relationships",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 113,
+    "id": 116,
     "text": "Is there anyone on the team you find difficult to work with? If so, how can I help manage that relationship?",
     "category": "Team Dynamics",
     "subcategory": "Interpersonal Relationships",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 114,
+    "id": 117,
     "text": "How would you rate the level of trust within the team?",
     "category": "Team Dynamics",
     "subcategory": "Interpersonal Relationships",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 115,
+    "id": 118,
     "text": "How can we improve collaboration within the team?",
     "category": "Team Dynamics",
     "subcategory": "Interpersonal Relationships",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 116,
+    "id": 119,
     "text": "Are you happy here? What makes you say that?",
     "category": "Team Dynamics",
     "subcategory": "Team Culture",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 117,
+    "id": 120,
     "text": "Do you feel our team culture supports your work and productivity?",
     "category": "Team Dynamics",
     "subcategory": "Team Culture",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 118,
+    "id": 121,
     "text": "How would you describe our team culture in three words?",
     "category": "Team Dynamics",
     "subcategory": "Team Culture",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 119,
+    "id": 122,
     "text": "Are there any aspects of our team culture you'd like to change?",
     "category": "Team Dynamics",
     "subcategory": "Team Culture",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 120,
+    "id": 123,
     "text": "What values do you think are most prominent within our team culture?",
     "category": "Team Dynamics",
     "subcategory": "Team Culture",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 121,
+    "id": 124,
     "text": "How does the team culture support or challenge your work-life balance?",
     "category": "Team Dynamics",
     "subcategory": "Team Culture",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 122,
+    "id": 125,
     "text": "How can we make our team culture more inclusive and diverse?",
     "category": "Team Dynamics",
     "subcategory": "Team Culture",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 123,
+    "id": 126,
     "text": "What about work is frustrating?",
     "category": "Team Dynamics",
     "subcategory": "Team Structure",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 124,
+    "id": 127,
     "text": "What about your job is most satisfying for you?",
     "category": "Team Dynamics",
     "subcategory": "Team Structure",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 125,
+    "id": 128,
     "text": "Are there any changes to the team structure that you think would improve efficiency?",
     "category": "Team Dynamics",
     "subcategory": "Team Structure",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 126,
+    "id": 129,
     "text": "How well do you feel the current team structure supports your role?",
     "category": "Team Dynamics",
     "subcategory": "Team Structure",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 127,
+    "id": 130,
     "text": "What are your thoughts on the leadership within our team structure?",
     "category": "Team Dynamics",
     "subcategory": "Team Structure",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 128,
+    "id": 131,
     "text": "Do you feel your role and responsibilities within the team structure are clear?",
     "category": "Team Dynamics",
     "subcategory": "Team Structure",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 129,
+    "id": 132,
     "text": "How does the current team structure support or hinder your professional development?",
     "category": "Team Dynamics",
     "subcategory": "Team Structure",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 130,
+    "id": 133,
     "text": "How did that make you feel?",
     "category": "Team Dynamics",
     "subcategory": "Conflict Resolution",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 131,
+    "id": 134,
     "text": "How comfortable do you feel addressing conflicts within the team?",
     "category": "Team Dynamics",
     "subcategory": "Conflict Resolution",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 132,
+    "id": 135,
     "text": "Can you describe a recent conflict within the team and how it was resolved?",
     "category": "Team Dynamics",
     "subcategory": "Conflict Resolution",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 133,
+    "id": 136,
     "text": "What strategies do you use to avoid or mitigate conflicts within the team?",
     "category": "Team Dynamics",
     "subcategory": "Conflict Resolution",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 134,
+    "id": 137,
     "text": "Do you feel the current methods of conflict resolution within the team are effective?",
     "category": "Team Dynamics",
     "subcategory": "Conflict Resolution",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 135,
+    "id": 138,
     "text": "What additional resources or support do you need for conflict resolution?",
     "category": "Team Dynamics",
     "subcategory": "Conflict Resolution",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 136,
+    "id": 139,
     "text": "How do you feel your work/life balance is right now?",
     "category": "Work-Life Balance",
     "subcategory": "Workload Management",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 137,
+    "id": 140,
     "text": "How do you think of your current workload and how are you coping with them?",
     "category": "Work-Life Balance",
     "subcategory": "Workload Management",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 138,
+    "id": 141,
     "text": "Do you feel over-worked, under-worked, or just the right workload?",
     "category": "Work-Life Balance",
     "subcategory": "Workload Management",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 139,
+    "id": 142,
     "text": "How is your workload right now?",
     "category": "Work-Life Balance",
     "subcategory": "Workload Management",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 140,
+    "id": 143,
     "text": "How are you planning to balance work and personal life this year?",
     "category": "Work-Life Balance",
     "subcategory": "Workload Management",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 141,
+    "id": 144,
     "text": "What do you do when you feel low energy or unmotivated?",
     "category": "Work-Life Balance",
     "subcategory": "Work-Life Integration",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 142,
+    "id": 145,
     "text": "What is the most important thing we need to discuss today?",
     "category": "Work-Life Balance",
     "subcategory": "Work-Life Integration",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 143,
+    "id": 146,
     "text": "How many hours a day do you feel you\u2019re productive? How could we help you be more productive?",
     "category": "Work-Life Balance",
     "subcategory": "Work-Life Integration",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 144,
+    "id": 147,
     "text": "How are you feeling about work?",
     "category": "Work-Life Balance",
     "subcategory": "Personal Wellness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 145,
+    "id": 148,
     "text": "Is there anything you\u2019d like to be doing on your own time to relieve stress that you\u2019re not getting to? How can I help you achieve those personal goals?",
     "category": "Work-Life Balance",
     "subcategory": "Personal Wellness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 146,
+    "id": 149,
     "text": "When is your next vacation?",
     "category": "Work-Life Balance",
     "subcategory": "Personal Wellness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 147,
+    "id": 150,
     "text": "When was your last vacation?",
     "category": "Work-Life Balance",
     "subcategory": "Personal Wellness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 148,
+    "id": 151,
     "text": "When you get stuck on something, what is your process for getting unstuck? Who do you turn to for help?",
     "category": "Work-Life Balance",
     "subcategory": "Personal Wellness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 149,
+    "id": 152,
     "text": "Happiness level, 1 to 10?",
     "category": "Work-Life Balance",
     "subcategory": "Personal Wellness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 150,
+    "id": 153,
     "text": "What can I do to help you enjoy your work more or remove roadblocks to progress?",
     "category": "Work-Life Balance",
     "subcategory": "Personal Wellness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 151,
+    "id": 154,
     "text": "What\u2019s an inexpensive thing we could do to improve our office environment?",
     "category": "Work-Life Balance",
     "subcategory": "Remote Work Experiences",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 152,
+    "id": 155,
     "text": "What do you like most about working on our team?",
     "category": "Company Alignment",
     "subcategory": "Company Values & Culture",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 153,
+    "id": 156,
     "text": "What\u2019s the best part of your job?",
     "category": "Company Alignment",
     "subcategory": "Company Values & Culture",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 154,
+    "id": 157,
     "text": "How does your current work align with the company's strategy?",
     "category": "Company Alignment",
     "subcategory": "Company Strategy",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 155,
+    "id": 158,
     "text": "Do you feel the company's strategy is clear and you understand your role within it?",
     "category": "Company Alignment",
     "subcategory": "Company Strategy",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 156,
+    "id": 159,
     "text": "How do you think the company's strategy could be improved?",
     "category": "Company Alignment",
     "subcategory": "Company Strategy",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 157,
+    "id": 160,
     "text": "Do you have any ideas for projects or initiatives that could support the company's strategy?",
     "category": "Company Alignment",
     "subcategory": "Company Strategy",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 158,
+    "id": 161,
     "text": "How does the company's strategy motivate your work?",
     "category": "Company Alignment",
     "subcategory": "Company Strategy",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 159,
+    "id": 162,
     "text": "Are there any recent organizational changes that have affected your work?",
     "category": "Company Alignment",
     "subcategory": "Organizational Changes",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 160,
+    "id": 163,
     "text": "How do you feel about the process of implementing organizational changes?",
     "category": "Company Alignment",
     "subcategory": "Organizational Changes",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 161,
+    "id": 164,
     "text": "Do you have any suggestions for how organizational changes could be better communicated?",
     "category": "Company Alignment",
     "subcategory": "Organizational Changes",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 162,
+    "id": 165,
     "text": "How do you manage the challenges of organizational changes?",
     "category": "Company Alignment",
     "subcategory": "Organizational Changes",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 163,
+    "id": 166,
     "text": "How do organizational changes impact your work-life balance?",
     "category": "Company Alignment",
     "subcategory": "Organizational Changes",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 164,
+    "id": 167,
     "text": "Do you feel that the company leadership is effectively communicating with staff?",
     "category": "Company Alignment",
     "subcategory": "Feedback on Company Leadership",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 165,
+    "id": 168,
     "text": "How do you feel about the direction the company leadership is taking?",
     "category": "Company Alignment",
     "subcategory": "Feedback on Company Leadership",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 166,
+    "id": 169,
     "text": "Is there any feedback you would like to provide to the company leadership?",
     "category": "Company Alignment",
     "subcategory": "Feedback on Company Leadership",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 167,
+    "id": 170,
     "text": "Do you feel that the company leadership is open and receptive to feedback from staff?",
     "category": "Company Alignment",
     "subcategory": "Feedback on Company Leadership",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 168,
+    "id": 171,
     "text": "How has the company leadership impacted your work experience?",
     "category": "Company Alignment",
     "subcategory": "Feedback on Company Leadership",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 169,
+    "id": 172,
     "text": "How can I help\u2026? (be more productive/happier at work/enjoy work more/etc)",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 170,
+    "id": 173,
     "text": "What does your ideal weekday look like?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 171,
+    "id": 174,
     "text": "What worries you?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 172,
+    "id": 175,
     "text": "What worries you? What\u2019s on your mind?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 173,
+    "id": 176,
     "text": "What drives you? What motivates you to come to work each day?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 174,
+    "id": 177,
     "text": "What\u2019s your No. 1 problem right now? How are you feeling about it?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 175,
+    "id": 178,
     "text": "Do you feel like you are learning at work? What are the new things you learned lately? What are the areas you want to learn about?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 176,
+    "id": 179,
     "text": "How is your current work helping or hurting your professional development?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 177,
+    "id": 180,
     "text": "During this meeting you\u2019ve mentioned that you\u2019d like to pursue X. What steps can you take toward that before our next 1-on-1?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 178,
+    "id": 181,
     "text": "Have you ever felt undervalued here?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 179,
+    "id": 182,
     "text": "How do you think you did on your performance review this year? What do you think the results will be?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 180,
+    "id": 183,
     "text": "Is there an aspect of your job you would like more help or coaching?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 181,
+    "id": 184,
     "text": "To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 182,
+    "id": 185,
     "text": "What can I do to take action or make progress on what we talked about today?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 183,
+    "id": 186,
     "text": "What can you do to take action or make progress on what we talked about today?",
     "category": "Coaching and Growth",
     "subcategory": "Self-Discovery and Awareness",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 184,
+    "id": 187,
     "text": "What can I do to help you achieve your current goals and priorities?",
     "category": "Coaching and Growth",
     "subcategory": "Goal Setting and Attainment",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 185,
+    "id": 188,
     "text": "What can I do to make things more manageable?",
     "category": "Coaching and Growth",
     "subcategory": "Goal Setting and Attainment",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 186,
+    "id": 189,
     "text": "What would be the most helpful thing for you to take away from this conversation in order to make progress on it?",
     "category": "Coaching and Growth",
     "subcategory": "Goal Setting and Attainment",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 187,
+    "id": 190,
     "text": "What\u2019s one thing about your job that, if we fixed, would make you never want to leave?",
     "category": "Coaching and Growth",
     "subcategory": "Goal Setting and Attainment",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 188,
+    "id": 191,
     "text": "What, if anything, did you used to do that you find you don\u2019t have time for right now?",
     "category": "Coaching and Growth",
     "subcategory": "Goal Setting and Attainment",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 189,
+    "id": 192,
     "text": "What part of your work routine do you find is working best? What area do you want to improve?",
     "category": "Coaching and Growth",
     "subcategory": "Goal Setting and Attainment",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 190,
+    "id": 193,
     "text": "If you could change what happened, how would you alter it?",
     "category": "Coaching and Growth",
     "subcategory": "Decision Making Abilities",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 191,
+    "id": 194,
     "text": "If you could change one thing about your job today, what would you change?",
     "category": "Coaching and Growth",
     "subcategory": "Decision Making Abilities",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 192,
+    "id": 195,
     "text": "Can you describe a recent decision you made and how you arrived at that decision?",
     "category": "Coaching and Growth",
     "subcategory": "Decision Making Abilities",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 193,
+    "id": 196,
     "text": "How confident do you feel in your decision-making abilities?",
     "category": "Coaching and Growth",
     "subcategory": "Decision Making Abilities",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 194,
+    "id": 197,
     "text": "What support do you need to improve your decision-making abilities?",
     "category": "Coaching and Growth",
     "subcategory": "Decision Making Abilities",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 195,
+    "id": 198,
     "text": "Can you think of a time when a decision you made significantly affected a project outcome?",
     "category": "Coaching and Growth",
     "subcategory": "Decision Making Abilities",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 196,
+    "id": 199,
     "text": "What is the most challenging decision you've had to make recently?",
     "category": "Coaching and Growth",
     "subcategory": "Decision Making Abilities",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 197,
+    "id": 200,
     "text": "What have your past managers done that you\u2019d like me to also do or not do?",
     "category": "Coaching and Growth",
     "subcategory": "Resilience and Coping Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 198,
+    "id": 201,
     "text": "What\u2019s a recent situation you wish you handled differently? What would you change?",
     "category": "Coaching and Growth",
     "subcategory": "Resilience and Coping Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 199,
+    "id": 202,
     "text": "What was difficult this week? what have you learned?",
     "category": "Coaching and Growth",
     "subcategory": "Resilience and Coping Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 200,
+    "id": 203,
     "text": "Is there anything that you\u2019re struggling with?",
     "category": "Coaching and Growth",
     "subcategory": "Resilience and Coping Skills",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 201,
+    "id": 204,
     "text": "Can you describe a situation where you had to show resilience at work?",
     "category": "Coaching and Growth",
     "subcategory": "Resilience and Coping Skills",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 202,
+    "id": 205,
     "text": "What strategies do you use to cope with stress and pressure at work?",
     "category": "Coaching and Growth",
     "subcategory": "Resilience and Coping Skills",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 203,
+    "id": 206,
     "text": "How can I support you in developing your resilience and coping skills?",
     "category": "Coaching and Growth",
     "subcategory": "Resilience and Coping Skills",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 204,
+    "id": 207,
     "text": "What do you do to maintain a positive attitude, even in difficult situations?",
     "category": "Coaching and Growth",
     "subcategory": "Resilience and Coping Skills",
     "source": "https://github.com/arjitsrivastava/1-1-Generator"
   },
   {
-    "id": 205,
+    "id": 208,
     "text": "I\u2019ve noticed X about the project\u2026 Can you help me understand that better? Talk me through your process.",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 206,
+    "id": 209,
     "text": "Would you like more coaching? What aspect of your job do you like more help and coaching on?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 207,
+    "id": 210,
     "text": "Are there any obstacles I can remove for you?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 208,
+    "id": 211,
     "text": "As your manager, what would you like me to stop, start, or continue doing?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 209,
+    "id": 212,
     "text": "How can I better support you?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 210,
+    "id": 213,
     "text": "What additional resources can I provide for you between now and the next time we meet?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 211,
+    "id": 214,
     "text": "What can I do for you that I'm not?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 212,
+    "id": 215,
     "text": "What can I do to help remove obstacles?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 213,
+    "id": 216,
     "text": "What can I do to make your job easier?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 214,
+    "id": 217,
     "text": "What could I do as a manager to make your work easier?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 215,
+    "id": 218,
     "text": "What do you like about my management style? What do you dislike?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 216,
+    "id": 219,
     "text": "What is something I could do better? What feedback do you have for me?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 217,
+    "id": 220,
     "text": "What is something I could have done better? What are the situations that I could have helped more but didn\u2019t?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 218,
+    "id": 221,
     "text": "What is the one thing that you need the most from me?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 219,
+    "id": 222,
     "text": "What would you like to know about me?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 220,
+    "id": 223,
     "text": "What\u2019s your favorite thing I do as a manager of this team I should keep doing?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 221,
+    "id": 224,
     "text": "Where do you think I can be most helpful?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 222,
+    "id": 225,
     "text": "Which areas would you like more or less direction from me on your work?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 223,
+    "id": 226,
     "text": "How do you feel about your work/life balance?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 224,
+    "id": 227,
     "text": "What could we change about work that would improve the rest of your life?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 225,
+    "id": 228,
     "text": "What are the biggest time wasters for you each week?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"
   },
   {
-    "id": 226,
-    "text": "Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?",
+    "id": 229,
+    "text": "Which part of the day do you feel most productive?",
+    "category": "Coaching and Growth",
+    "subcategory": "Feedback and Improvement",
+    "source": "https://github.com/VGraupera/1on1-questions"
+  },
+  {
+    "id": 230,
+    "text": "When do you feel that your energy and focus are at the lowest level?",
+    "category": "Coaching and Growth",
+    "subcategory": "Feedback and Improvement",
+    "source": "https://github.com/VGraupera/1on1-questions"
+  },
+  {
+    "id": 231,
+    "text": "What are the changes that can be made so you can take the best out of a work day?",
     "category": "Coaching and Growth",
     "subcategory": "Feedback and Improvement",
     "source": "https://github.com/VGraupera/1on1-questions"

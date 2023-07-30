@@ -1,7 +1,8 @@
     # Work Progress
         ## Current Projects
             How are you feeling about the project?
-            What do you think has gone well? What do you think you could have done better? What, if anything, would you like to do, but haven't been able to?
+            What do you think has gone well? What do you think you could have done better? 
+            What, if anything, would you like to do, but haven't been able to?
             What are your biggest concerns about your current project(s)?
             What interests you about the project(s) you’re currently working on, and why?
             How are you going to approach this?
@@ -56,7 +57,8 @@
             What parts of your job would you like to deepen your skills in or get additional training in?
             What skills do you have that you think are underutilized?
             What skills would you like to develop right now?
-            Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?        
+            Which part of the work here do you feel as most relevant to your long-term goals? 
+            What kinds of projects do you want to take part in to move toward your goals?        
         ## Career Goals
             What is an ideal, productive day at work for you? Walk me through the day…
             In our last 1-on-1 you mentioned that you’d like to grow in X — how has that been going?
@@ -95,7 +97,8 @@
             What would make this your perfect job?
             What would you like to learn about in the future?
             What’s one thing we could do today to help you with your long term goals?
-            Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?
+            Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals?
+            How can we help you to reach your goals (assuming the goals relate to the company)?
             Where do you see your career in the next (2/5/10) years?
             Where do you see yourself in three years? Five years?
             Which career or development goals do you feel like you’re not able to focus on right now?
@@ -259,4 +262,6 @@
             How do you feel about your work/life balance?
             What could we change about work that would improve the rest of your life?
             What are the biggest time wasters for you each week?
-            Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?            
+            Which part of the day do you feel most productive? 
+            When do you feel that your energy and focus are at the lowest level? 
+            What are the changes that can be made so you can take the best out of a work day?            
