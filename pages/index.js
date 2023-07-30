@@ -60,7 +60,7 @@ export default function Home() {
       </Head>
 
 
-<nav className="mb-4">
+<nav className="mb-4 mt-8">
   <Link href="/resources">
     <a className="mr-4 bg-neonGreen hover:bg-lightCyan text-darkBlue font-bold py-2 px-4 rounded">
       Resources
