@@ -52,24 +52,25 @@ export default function Resources() {
       </Head>
 
       <h1 className="text-lightCyan text-lg text-center font-extrabold mb-4">Resources</h1>
-
-      {categories.map((category, index) => (
-        <div key={index} className="mb-8">
-          <h2 className="text-neonGreen text-xl font-bold mb-4">{category}</h2>
-          <div className="flex flex-wrap justify-center">
-            {resources
-              .filter(resource => resource.category === category)
-              .map((resource, index) => (
-                <ResourceCard
-                  key={index}
-                  title={resource.title}
-                  description={resource.description}
-                  link={resource.link}
-                />
-              ))}
+      <div className="auto-rows-auto">
+        {categories.map((category, index) => (
+          <div key={index} className="mb-8">
+            <h2 className="text-neonGreen text-xl font-bold mb-4">{category}</h2>
+            <div className="grid grid-cols-2 justify-center gap-4">
+              {resources
+                .filter(resource => resource.category === category)
+                .map((resource, index) => (
+                  <ResourceCard
+                    key={index}
+                    title={resource.title}
+                    description={resource.description}
+                    link={resource.link}
+                  />
+                ))}
+            </div>
           </div>
-        </div>
-      ))}
+        ))}
+      </div>
 
       <Link href="/">
         <a className="text-lightCyan underline mt-8">Back to Home</a>
