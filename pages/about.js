@@ -44,7 +44,7 @@ export default function About() {
         <h2 className="font-bold text-neonGreen transition-all duration-300 hover:scale-105 transform">Who Am I?</h2>
         <div className="transition-all duration-300 hover:bg-darkGrayishBlue/20 p-2 rounded-lg">
           <p>
-            Hey there, I am <span className="text-neonGreen font-bold animate-pulse">Arjit</span>. I am constantly looking for ways to improve. </p>
+            Hey there, I am <span className="text-neonGreen font-bold animate-pulse">Arjit</span>. </p>
             <p> I created this to help other leaders have effective conversations with their team members. </p>
             <p> I hope it brings value to your 1:1s!
           </p>
