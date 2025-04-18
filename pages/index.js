@@ -22,7 +22,7 @@ function Select({ options, value, onChange, label }) {
       onChange={onChange}
       value={value}
       aria-label={label}
-      className='bg-neonGreen rounded-md text-darkBlue w-3/4 text-center mb-4 font-extrabold text-[16px]'
+      className='bg-neonGreen rounded-md text-darkBlue w-3/4 text-center mb-4 font-extrabold text-[16px] transition-all duration-300 hover:bg-lightCyan focus:ring-2 focus:ring-lightCyan'
     >
       {options.map((option) => 
         <option key={option} value={option}>{option}</option>
@@ -37,6 +37,8 @@ export default function Home() {
   const [subcategory, setSubcategory] = useState('All');
   const [question, setQuestion] = useState(null);
   const [isClient, setIsClient] = useState(false);
+  const [isRotating, setIsRotating] = useState(false);
+  const [fadeIn, setFadeIn] = useState(true);
 
   // Use this to ensure we only render on the client
   useEffect(() => {
@@ -44,11 +46,32 @@ export default function Home() {
     setQuestion(getRandomQuestion(category, subcategory));
   }, []);
 
+  // Handle question change with animation
+  const handleNewQuestion = () => {
+    setFadeIn(false);
+    setIsRotating(true);
+    
+    // Small delay to allow fade out animation
+    setTimeout(() => {
+      const newQuestion = getRandomQuestion(category, subcategory);
+      if (newQuestion) {
+        setQuestion(newQuestion);
+        setFadeIn(true);
+      }
+      
+      // Reset rotation after animation completes
+      setTimeout(() => {
+        setIsRotating(false);
+      }, 500);
+    }, 300);
+  };
+
   useEffect(() => {
     if (isClient) {
       const newQuestion = getRandomQuestion(category, subcategory);
       if (newQuestion) {
         setQuestion(newQuestion);
+        setFadeIn(true);
       }
     }
   }, [category, subcategory, isClient]);
@@ -70,7 +93,7 @@ export default function Home() {
         <div className="flex-grow flex flex-col justify-center items-center">
           <main className="w-full px-3 md:px-0">
             <div className="bg-darkGrayishBlue rounded-lg flex flex-col items-center mx-auto md:max-w-lg space-y-4 p-6">
-              <p className="text-lightCyan">Loading...</p>
+              <p className="text-lightCyan animate-pulse">Loading...</p>
             </div>
           </main>
         </div>
@@ -90,13 +113,13 @@ export default function Home() {
 <nav className="mb-4 mt-8">
   <Link 
     href="/resources"
-    className="mr-4 bg-neonGreen hover:bg-lightCyan text-darkBlue font-bold py-2 px-4 rounded"
+    className="mr-4 bg-neonGreen hover:bg-lightCyan text-darkBlue font-bold py-2 px-4 rounded transition-colors duration-300 transform hover:scale-105"
   >
     Resources
   </Link>
   <Link 
     href="/about"
-    className="bg-neonGreen hover:bg-lightCyan text-darkBlue font-bold py-2 px-4 rounded"
+    className="bg-neonGreen hover:bg-lightCyan text-darkBlue font-bold py-2 px-4 rounded transition-colors duration-300 transform hover:scale-105"
   >
     Contact
   </Link>
@@ -107,7 +130,7 @@ export default function Home() {
       <div className="flex-grow flex flex-col justify-center items-center"> {/* Added items-center */}
         <main className="w-full px-3 md:px-0"> {/* Added padding control */}
           {/* Reduced gap, added overflow and max-height */}
-          <div className={`bg-darkGrayishBlue rounded-lg flex flex-col items-center ${category === 'All' ? 'gap-y-2' : 'gap-y-4'} mx-auto md:max-w-lg space-y-4 p-6`}> {/* Added p-6 for internal padding */}
+          <div className={`bg-darkGrayishBlue rounded-lg flex flex-col items-center ${category === 'All' ? 'gap-y-2' : 'gap-y-4'} mx-auto md:max-w-lg space-y-4 p-6 shadow-lg transition-shadow duration-300 hover:shadow-xl`}> {/* Added p-6 for internal padding */}
             <Select 
               options={categories} 
               value={category} 
@@ -127,22 +150,22 @@ export default function Home() {
               />
             )}
 
-            <div className="flex flex-col items-center"> {/* Removed space-y-4 */}
-              <h1 className='text-neonGreen text-xs tracking-[0.3em] font-extrabold pt-10'>
+            <div className="flex flex-col items-center w-full"> {/* Removed space-y-4 */}
+              <h1 className='text-neonGreen text-xs tracking-[0.3em] font-extrabold pt-10 transition-opacity duration-300'>
                 {`QUESTION #${question.id}`}
               </h1>
               {category === 'All' && (
-                <div className='text-neonGreen text-xs tracking-[0.3em] font-extrabold mt-2'>
+                <div className='text-neonGreen text-xs tracking-[0.3em] font-extrabold mt-2 transition-opacity duration-300'>
                   {`Category: ${question.category}`}
                 </div>
               )}
-              <div className='text-lightCyan text-[28px] text-center font-extrabold px-3 md:px-8 pb-4 mt-2'> {/* Added padding-bottom */}
+              <div className={`text-lightCyan text-[28px] text-center font-extrabold px-3 md:px-8 pb-4 mt-2 transition-opacity duration-300 ${fadeIn ? 'opacity-100' : 'opacity-0'}`}> {/* Added padding-bottom */}
                 {`"${question.text}"`}
               </div>
 
               {question.source && (
-                <div className='italic text-sm text-lightCyan'>
-                  <a href={question.source} target="_blank" rel="noopener noreferrer">Source</a>
+                <div className='italic text-sm text-lightCyan transition-opacity duration-300'>
+                  <a href={question.source} target="_blank" rel="noopener noreferrer" className="hover:text-neonGreen transition-colors duration-300">Source</a>
                 </div>
               )}
 
@@ -150,9 +173,10 @@ export default function Home() {
                 {isWide ? <DesktopDivider /> : <MobileDivider />}
               </div>
               <button
-                onClick={() => setQuestion(getRandomQuestion(category, subcategory))}
+                onClick={handleNewQuestion}
                 type='button'
-                className='bg-neonGreen rounded-full p-4 hover:shadow-3xl'
+                className={`bg-neonGreen rounded-full p-4 hover:bg-lightCyan transition-all duration-300 hover:shadow-3xl ${isRotating ? 'animate-spin' : ''}`}
+                aria-label="Generate new question"
               >
                 <DiceIcon />
               </button>
@@ -162,7 +186,7 @@ export default function Home() {
       </div>
 
       <footer className='text-center text-white bg-darkGrayishBlue p-4 fixed bottom-0 w-full'>
-        Made with ❤️ by <a href="https://github.com/arjitsrivastava" target="_blank" rel="noreferrer"> Arjit</a>
+        Made with <span className="animate-pulse">❤️</span> by <a href="https://github.com/arjitsrivastava" target="_blank" rel="noreferrer" className="hover:text-neonGreen transition-colors duration-300"> Arjit</a>
       </footer>
     </div>
   );
