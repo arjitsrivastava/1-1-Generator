@@ -44,35 +44,56 @@ const resources = [
 
 export default function Resources() {
   const [isClient, setIsClient] = useState(false);
+  const [isVisible, setIsVisible] = useState(false);
   
   useEffect(() => {
     setIsClient(true);
+    // Add a small delay before showing the content for a smoother fade-in effect
+    const timer = setTimeout(() => {
+      setIsVisible(true);
+    }, 100);
+    
+    return () => clearTimeout(timer);
   }, []);
   
   const categories = [...new Set(resources.map(resource => resource.category))];
 
   return (
-    <div className="font-sans bg-darkBlue h-screen flex flex-col justify-center items-center text-lightCyan px-4">
+    <div className="font-sans bg-darkBlue min-h-screen flex flex-col justify-center items-center text-lightCyan px-4 py-8">
       <Head>
         <title>Resources for 1:1</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1 className="text-lightCyan text-lg text-center font-extrabold mb-4">Resources</h1>
-      <div className="auto-rows-auto">
-        {categories.map((category, index) => (
-          <div key={index} className="mb-8">
-            <h2 className="text-neonGreen text-xl font-bold mb-4">{category}</h2>
-            <div className="grid grid-cols-2 justify-center gap-4">
+      <h1 className={`text-lightCyan text-lg text-center font-extrabold mb-4 transition-all duration-500 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-4'}`}>
+        Resources
+      </h1>
+      
+      <div className="auto-rows-auto w-full max-w-4xl">
+        {categories.map((category, categoryIndex) => (
+          <div 
+            key={categoryIndex} 
+            className={`mb-8 transition-all duration-500 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`} 
+            style={{ transitionDelay: `${categoryIndex * 150}ms` }}
+          >
+            <h2 className="text-neonGreen text-xl font-bold mb-4 transition-all duration-300 hover:scale-105 transform origin-left">
+              {category}
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 justify-center gap-4">
               {resources
                 .filter(resource => resource.category === category)
                 .map((resource, index) => (
-                  <ResourceCard
-                    key={index}
-                    title={resource.title}
-                    description={resource.description}
-                    link={resource.link}
-                  />
+                  <div 
+                    key={index} 
+                    className={`transition-all duration-500`}
+                    style={{ transitionDelay: `${(categoryIndex * 150) + (index * 100)}ms` }}
+                  >
+                    <ResourceCard
+                      title={resource.title}
+                      description={resource.description}
+                      link={resource.link}
+                    />
+                  </div>
                 ))}
             </div>
           </div>
@@ -81,7 +102,8 @@ export default function Resources() {
 
       <Link 
         href="/"
-        className="text-lightCyan underline mt-8"
+        className={`text-lightCyan hover:text-neonGreen underline mt-8 transition-all duration-300 transform hover:scale-105 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
+        style={{ transitionDelay: `${categories.length * 200}ms` }}
       >
         Back to Home
       </Link>
