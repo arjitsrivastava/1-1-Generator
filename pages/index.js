@@ -22,7 +22,7 @@ function Select({ options, value, onChange, label }) {
       onChange={onChange}
       value={value}
       aria-label={label}
-      className='bg-neonGreen rounded-md text-darkBlue w-1/2 text-center mb-4 font-extrabold text-[16px]'
+      className='bg-neonGreen rounded-md text-darkBlue w-3/4 text-center mb-4 font-extrabold text-[16px]'
     >
       {options.map((option) => 
         <option key={option} value={option}>{option}</option>
@@ -52,7 +52,7 @@ export default function Home() {
   }, [questions, category]);
 
   return (
-    <div className='font-sans flex flex-col min-h-screen bg-darkBlue justify-center relative'>
+    <div className='font-sans flex flex-col min-h-screen bg-darkBlue justify-center relative overflow-y-auto'>
       <Head>
         <title>1:1 Question Generator</title>
         <meta name='description' content='Created by Arjit' />
@@ -75,9 +75,10 @@ export default function Home() {
 
 
 
-      <div className="flex-grow flex flex-col justify-center">
-        <main>
-          <div className='bg-darkGrayishBlue rounded-lg flex flex-col items-center gap-y-6 mx-3 md:max-w-lg md:mx-auto space-y-4'>
+      <div className="flex-grow flex flex-col justify-center items-center"> {/* Added items-center */}
+        <main className="w-full px-3 md:px-0"> {/* Added padding control */}
+          {/* Reduced gap, added overflow and max-height */}
+          <div className={`bg-darkGrayishBlue rounded-lg flex flex-col items-center ${category === 'All' ? 'gap-y-2' : 'gap-y-4'} mx-auto md:max-w-lg space-y-4 p-6`}> {/* Added p-6 for internal padding */}
             <Select 
               options={categories} 
               value={category} 
@@ -97,11 +98,16 @@ export default function Home() {
               />
             )}
 
-            <div className="flex flex-col items-center space-y-4">
+            <div className="flex flex-col items-center"> {/* Removed space-y-4 */}
               <h1 className='text-neonGreen text-xs tracking-[0.3em] font-extrabold pt-10'>
                 {`QUESTION #${question.id}`}
               </h1>
-              <div className='text-lightCyan text-[28px] text-center font-extrabold px-3 md:px-8'>
+              {category === 'All' && (
+                <div className='text-neonGreen text-xs tracking-[0.3em] font-extrabold mt-2'>
+                  {`Category: ${question.category}`}
+                </div>
+              )}
+              <div className='text-lightCyan text-[28px] text-center font-extrabold px-3 md:px-8 pb-4 mt-2'> {/* Added padding-bottom */}
                 {`"${question.text}"`}
               </div>
 
