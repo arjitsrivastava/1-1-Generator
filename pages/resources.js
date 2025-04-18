@@ -31,7 +31,7 @@ const resources = [
   {
     title: 'How to Ask Better Questions',
     description: 'Enhance communication with this guide.',
-    link: 'https://hbr.org/2009/05/real-leaders-ask.html',
+    link: 'https://archive.ph/dOQpk',
     category: 'Additional Resources',
   },
   {
