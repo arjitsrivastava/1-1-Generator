@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import ResourceCard from '../components/ResourceCard';
 import Link from 'next/link';
+import { useState, useEffect } from 'react';
 
 const resources = [
   {
@@ -42,6 +43,12 @@ const resources = [
 ];
 
 export default function Resources() {
+  const [isClient, setIsClient] = useState(false);
+  
+  useEffect(() => {
+    setIsClient(true);
+  }, []);
+  
   const categories = [...new Set(resources.map(resource => resource.category))];
 
   return (
@@ -72,8 +79,11 @@ export default function Resources() {
         ))}
       </div>
 
-      <Link href="/">
-        <a className="text-lightCyan underline mt-8">Back to Home</a>
+      <Link 
+        href="/"
+        className="text-lightCyan underline mt-8"
+      >
+        Back to Home
       </Link>
     </div>
   );
