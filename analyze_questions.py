@@ -1,4 +1,5 @@
 import json
+import datetime
 
 # Load the questions
 with open('public/questions.json', 'r') as f:
@@ -33,8 +34,12 @@ print('\nSubcategories:')
 for subcat, count in sorted(subcategories.items()):
     print(f'{subcat}: {count}')
 
-# Create stats_date.txt file
-with open('stats_date.txt', 'w') as f:
+# Get current date in dd-mm-yyyy format
+current_date = datetime.datetime.now().strftime('%d%m%Y')
+stats_filename = f'stats_{current_date}.txt'
+
+# Create stats file with date in filename
+with open(stats_filename, 'w') as f:
     f.write(f'Total questions: {total_questions}\n\n')
     
     f.write('Categories:\n')
@@ -44,3 +49,5 @@ with open('stats_date.txt', 'w') as f:
     f.write('\nSubcategories:\n')
     for subcat, count in sorted(subcategories.items()):
         f.write(f'{subcat}: {count}\n')
+
+print(f"Statistics saved to {stats_filename}")
