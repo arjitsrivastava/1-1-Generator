@@ -35,21 +35,48 @@ export default function Home() {
   const isWide = useMedia('(min-width: 768px)', true);
   const [category, setCategory] = useState('All');
   const [subcategory, setSubcategory] = useState('All');
-  const [question, setQuestion] = useState(getRandomQuestion(category, subcategory));
+  const [question, setQuestion] = useState(null);
+  const [isClient, setIsClient] = useState(false);
+
+  // Use this to ensure we only render on the client
+  useEffect(() => {
+    setIsClient(true);
+    setQuestion(getRandomQuestion(category, subcategory));
+  }, []);
 
   useEffect(() => {
-    const newQuestion = getRandomQuestion(category, subcategory);
-    if (newQuestion) {
-      setQuestion(newQuestion);
-    } else {
-      // Handle error case here
+    if (isClient) {
+      const newQuestion = getRandomQuestion(category, subcategory);
+      if (newQuestion) {
+        setQuestion(newQuestion);
+      }
     }
-  }, [category, subcategory]);
+  }, [category, subcategory, isClient]);
 
-  const categories = useMemo(() => ['All', ...new Set(questions.map(q => q.category))], [questions]);
+  const categories = useMemo(() => ['All', ...new Set(questions.map(q => q.category))], []);
   const subcategories = useMemo(() => {
     return ['All', ...new Set(questions.filter(q => (category === 'All' || q.category === category) && q.subcategory).map(q => q.subcategory))];
-  }, [questions, category]);
+  }, [category]);
+
+  // Don't render question content until client-side
+  if (!isClient || !question) {
+    return (
+      <div className='font-sans flex flex-col min-h-screen bg-darkBlue justify-center relative overflow-y-auto'>
+        <Head>
+          <title>1:1 Question Generator</title>
+          <meta name='description' content='Created by Arjit' />
+          <link rel='icon' href='/favicon.ico' />
+        </Head>
+        <div className="flex-grow flex flex-col justify-center items-center">
+          <main className="w-full px-3 md:px-0">
+            <div className="bg-darkGrayishBlue rounded-lg flex flex-col items-center mx-auto md:max-w-lg space-y-4 p-6">
+              <p className="text-lightCyan">Loading...</p>
+            </div>
+          </main>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className='font-sans flex flex-col min-h-screen bg-darkBlue justify-center relative overflow-y-auto'>
@@ -61,15 +88,17 @@ export default function Home() {
 
 
 <nav className="mb-4 mt-8">
-  <Link href="/resources">
-    <a className="mr-4 bg-neonGreen hover:bg-lightCyan text-darkBlue font-bold py-2 px-4 rounded">
-      Resources
-    </a>
+  <Link 
+    href="/resources"
+    className="mr-4 bg-neonGreen hover:bg-lightCyan text-darkBlue font-bold py-2 px-4 rounded"
+  >
+    Resources
   </Link>
-  <Link href="/about">
-    <a className="bg-neonGreen hover:bg-lightCyan text-darkBlue font-bold py-2 px-4 rounded">
-      Contact
-    </a>
+  <Link 
+    href="/about"
+    className="bg-neonGreen hover:bg-lightCyan text-darkBlue font-bold py-2 px-4 rounded"
+  >
+    Contact
   </Link>
 </nav>
 

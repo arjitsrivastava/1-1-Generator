@@ -1,8 +1,15 @@
 import Head from 'next/head';
 import Link from 'next/link'
 import Image from 'next/image';
+import { useState, useEffect } from 'react';
 
 export default function About() {
+  const [isClient, setIsClient] = useState(false);
+  
+  useEffect(() => {
+    setIsClient(true);
+  }, []);
+  
   return (
     <div className="font-sans bg-darkBlue h-screen flex flex-col justify-center items-center text-lightCyan px-4">
       <Head>
@@ -49,8 +56,11 @@ export default function About() {
         </a>
       </div>
 
-      <Link href="/">
-        <a className="text-lightCyan underline mt-8">Back to Home</a>
+      <Link 
+        href="/"
+        className="text-lightCyan underline mt-8"
+      >
+        Back to Home
       </Link>
 
     </div>
