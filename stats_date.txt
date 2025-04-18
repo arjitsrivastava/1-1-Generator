@@ -1,0 +1,36 @@
+Total questions: 642
+
+Categories:
+Coaching and Growth: 124
+Company Alignment: 100
+Personal Development: 118
+Team Dynamics: 100
+Work Progress: 100
+Work-Life Balance: 100
+
+Subcategories:
+Coaching and Growth - Decision Making Abilities: 25
+Coaching and Growth - Feedback and Improvement: 24
+Coaching and Growth - Goal Setting and Attainment: 25
+Coaching and Growth - Resilience and Coping Skills: 25
+Coaching and Growth - Self-Discovery and Awareness: 25
+Company Alignment - Company Strategy: 25
+Company Alignment - Company Values & Culture: 25
+Company Alignment - Feedback on Company Leadership: 25
+Company Alignment - Organizational Changes: 25
+Personal Development - Career Goals: 43
+Personal Development - Feedback & Recognition: 25
+Personal Development - Professional Interests and Passions: 25
+Personal Development - Skills Development: 25
+Team Dynamics - Conflict Resolution: 25
+Team Dynamics - Interpersonal Relationships: 25
+Team Dynamics - Team Culture: 25
+Team Dynamics - Team Structure: 25
+Work Progress - Completed Projects: 25
+Work Progress - Current Projects: 25
+Work Progress - Project Management Skills: 25
+Work Progress - Upcoming Projects: 25
+Work-Life Balance - Personal Wellness: 25
+Work-Life Balance - Remote Work Experiences: 25
+Work-Life Balance - Work-Life Integration: 25
+Work-Life Balance - Workload Management: 25
