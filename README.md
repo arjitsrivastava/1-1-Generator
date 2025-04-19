@@ -13,22 +13,57 @@ This tool is designed for Engineering Leaders to improve the effectiveness of th
 ## Installation
 
 1. Clone the repository
-2. Install dependencies
-3. Start the development server
+   ```bash
+   git clone https://github.com/arjitsrivastava/1-1-Generator.git
+   cd 1-1-Generator
+   ```
 
+2. Install dependencies
+   ```bash
+   npm install
+   # or
+   yarn
+   ```
+
+3. Start the development server
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Usage
 
 1. **Select Category**: Select a category to filter the questions.
 2. **Select Subcategory**: If applicable, select a subcategory to further filter the questions.
 3. **Click the Dice Icon**: Click the dice icon to generate a random question from the selected category and subcategory.
-4. **Navigate to Other Pages**: Use the buttons at the bottom of the main page to navigate to the Resources and About & Contact pages.
+4. **Navigate to Other Pages**: Use the buttons at the top of the main page to navigate to the Resources and Contact pages.
 
-## Contribution
+## Documentation
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/arjitsrivastava/1-1-Generator/issues).
+Comprehensive documentation is available in the [docs/](docs/) directory:
 
-## Show your support
+- [Project Overview](docs/PROJECT_OVERVIEW.md) - Architecture and design decisions
+- [Development Guide](docs/DEVELOPMENT_GUIDE.md) - Detailed guide for developers
+- [Code of Conduct](docs/CODE_OF_CONDUCT.md) - Community guidelines
+
+## Contributing
+
+We welcome contributions from the community! Please read our [Contributing Guide](CONTRIBUTING.md) for details on how to submit pull requests, report issues, and suggest improvements.
+
+### How to Contribute
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+For more detailed information, please refer to the [Contributing Guide](CONTRIBUTING.md).
+
+## Show Your Support
 
 Give a ⭐️ if this project helped you! Your stars help others discover this tool and contribute to its growth. If you feel generous, you can also support the ongoing development of this project on [Kofi](https://ko-fi.com/arjit).
 
@@ -38,9 +73,10 @@ Give a ⭐️ if this project helped you! Your stars help others discover this t
 
 A significant portion of the questions provided in this tool are sourced from the [1on1-questions](https://github.com/VGraupera/1on1-questions) repository by [VGraupera](https://github.com/VGraupera). A big thanks to them for their fantastic compilation and their dedication to fostering meaningful conversations within the tech community.
 
-
 ## Credit to Original Design
+
 This project was inspired by [Advice-Generator](https://github.com/RubenF01/Advice-Generator/). We want to acknowledge their innovation and efforts, and extend our gratitude for laying the groundwork for this tool.
 
 ## License
+
 [MIT](LICENSE)
